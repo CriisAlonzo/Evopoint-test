@@ -1,0 +1,156 @@
+* {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icon-header {
+  top: 45px;
+  left: 173px;
+  width: 35px;
+  height: 34px;
+  margin: 0%;
+}
+
+.header {
+  margin-left: -75px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.brand-icon span {
+  color: #cb0002;
+  text-align: start;
+  top: 39px;
+  left: 228px;
+  width: 155px;
+  height: 48px;
+  text-align: left;
+  font: normal normal bold 43px/49px Arial;
+  letter-spacing: 0px;
+}
+
+.nav-bar {
+  background-color: #c70029;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 15px;
+  width: 72%;
+}
+
+.nav-bar-links {
+  padding: 20px;
+  color: white;
+}
+
+.nav-bar-links a:link {
+  text-decoration: none;
+  color: white;
+}
+
+.nav-bar-links a:visited {
+  color: white;
+}
+
+.first-container .style-imagefirst-container img {
+  width: 75%;
+  height: 50vh;
+  display: flex;
+}
+.img-border-radius {
+  border-radius: 20px;
+}
+.next-events span {
+  top: 57px;
+  left: 984px;
+  width: 132px;
+  height: 21px;
+  font: normal normal normal 19px/22px Arial;
+  letter-spacing: 0px;
+}
+
+.text-above {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 215px;
+  left: 1040px;
+  width: 399px;
+  height: 87px;
+  text-align: right;
+  font-size: 2rem;
+  letter-spacing: 0px;
+  color: #ffffff;
+}
+
+.second-container {
+  margin-left: 490px;
+  width: 50%;
+  padding: 10px;
+}
+
+.special-image {
+  top: 574px;
+  left: 368px;
+  height: 35px;
+  border: 3px;
+}
+
+.super-special-title {
+  top: 571px;
+  left: 412px;
+  height: 30px;
+  text-align: left;
+  font-size: 20px;
+  letter-spacing: 0px;
+}
+
+.image-content-style {
+  width: 213px;
+  height: 193px;
+  display: block;
+  margin-left: 470px;
+  margin-right: auto;
+}
+
+.first-text-content-style {
+  width: 480px;
+  text-align: left;
+  font-size: 20px;
+}
+
+.second-text-content-style {
+  width: 480px;
+  text-align: left;
+  font-size: 20px;
+}
+
+.ul-list {
+  color: #c70029;
+  display: block;
+  width: 420px;
+  font-size: 18px;
+}
+
+.footer {
+  background-color: #c70029;
+  margin-top: 80px;
+  width: 72%;
+  color: white;
+  text-align: left;
+  padding: 15px;
+ 
+}
+
+.second-element-footer {
+  width: 300px;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
